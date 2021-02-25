@@ -1,0 +1,15 @@
+FEATURES:
+	Account
+	      deposit, withdraw
+	      loan
+	      payLoan, payLoan interest
+	Accountid
+	People:
+		Membership (standard or gold)
+		Address
+	Managers
+		manage account creation and deletion
+		manage memberships
+		manager requests for loans
+		manage security - making sure thief can't withdraw or take loans
+	......
