@@ -13,3 +13,4 @@ FEATURES:
 		manager requests for loans
 		manage security - making sure thief can't withdraw or take loans
 	......
+I think it okay, you have covered everything. 
