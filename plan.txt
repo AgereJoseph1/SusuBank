@@ -19,6 +19,7 @@ The only thing that is left is for us to start working on it,I am currently work
 
 
 
+<<<<<<< HEAD
 
 
 I thought of it and realized that if we want to do it this way ,it may end up by giving us alot of problems.The issue is, alot of people are always willing to do it but the manner in which it is done is making it difficult for them to join but because they are always busy ,they don't have time to go there and do it ,so I was thinking that if we can automate that their manual  way of doing it such that you will be able to do your susu at any where if only you are a registered member but 
@@ -28,3 +29,14 @@ I thought of it and realized that if we want to do it this way ,it may end up by
  If you are not a  registered member ,then there will be a particular portion for you to registered just by filling in your details ,after which the admin or the manager will go through it ,and send you back your details.
 
  But the problem  with this one too is most of them are not used to this our modern technology,so they may face changes tring to use it .But u can also go through it and give me your feedback so that we will know what to do .I wanted to start with the acounts side but due this,I could't start. 
+=======
+please how far with the project ,where you able to start something  so that I can just continue from there .Infact I have being overloaded with alot of ptojects but we can still manage and work on it fast. It has kept long too much.
+
+
+
+
+
+
+
+
+>>>>>>> 1efaf9beead801328292679ede4cfcde4837e1be
