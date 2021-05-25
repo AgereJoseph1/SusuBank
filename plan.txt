@@ -15,3 +15,8 @@ FEATURES:
 	......
 I think it is okay, you have covered everything. 
 The only thing that is left is for us to start working on it,I am currently working with my team on a project ,we are trying to build an offline platform that will allow students to have lecture without the headache of having to buy data .We are trying to use a particular moudle in python called socket to do it.
+
+
+
+
+please how far with the project ,where you able to start something  so that I can just continue from there .Infact I have being overloaded with alot of ptojects but we can still manage and work on it fast. It has kept long too much.
